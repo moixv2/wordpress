@@ -52,22 +52,22 @@
 
 
 <div class="row wpsm_ac_h_i2 " >
-<h1 style="color:#000;">Get Support Help Here</h1>
-<h3 style="color:#000;">If You have any issue then please ask us any time</h3>
-<a href="https://wordpress.org/support/plugin/responsive-accordion-and-collapse" target="_blank" class="button button-primary button-hero ">Get Support Here</a>
-</br></br>
-<div>							
-								<h1 style="color:#000;font-size:24px;font-weight:500;line-height:1.4">Accordion documentation</h1>							
-							</div>	
+	<h1 style="color:#000;">Get Support Help Here</h1>
+	<h3 style="color:#000;">If You have any issue then please ask us any time</h3>
+	<a href="https://wordpress.org/support/plugin/responsive-accordion-and-collapse" target="_blank" class="button button-primary button-hero ">Get Support Here</a>
+	</br></br>
+	<div>							
+		<h1 style="color:#000;font-size:24px;font-weight:500;line-height:1.4">Accordion documentation</h1>							
+	</div>	
 
-<div class="col-md-12" style="margin-bottom: 30px;">
-						<div class="col-md-4">	<img width="100" height="20" style="width:310px;height:auto; margin-top: 20px;" src="<?php echo wpshopmart_accordion_directory_url.'img/wpshopmart-logo.png'; ?>" > </div>
-						<div class="col-md-8"><a class="btn btn-danger btn-lg " href="https://www.youtube.com/c/wpshopmart?sub_confirmation=1" target="_blank">Subscribe Our Channel</a>
-						<a class="btn btn-success btn-lg " href="https://www.youtube.com/c/wpshopmart" target="_blank">Check More Helping Videos</a></div>
-							</div>								
-							</br></br>
-							<div class="col-md-12" >	
-							<iframe width="600" height="370" src="https://www.youtube.com/embed/iu2Wj7qZo_g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-							</div>
-							</div>
+	<div class="col-md-12" style="margin-bottom: 30px;">
+	<div class="col-md-4">	<img width="100" height="20" style="width:310px;height:auto; margin-top: 20px;" src="<?php echo wpshopmart_accordion_directory_url.'img/wpshopmart-logo.png'; ?>" > </div>
+	<div class="col-md-8"><a class="btn btn-danger btn-lg " href="https://www.youtube.com/c/wpshopmart?sub_confirmation=1" target="_blank">Subscribe Our Channel</a>
+	<a class="btn btn-success btn-lg " href="https://www.youtube.com/c/wpshopmart" target="_blank">Check More Helping Videos</a></div>
+	</div>								
+	</br></br>
+	<div class="col-md-12" >	
+	<iframe width="600" height="370" src="https://www.youtube.com/embed/iu2Wj7qZo_g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
+</div>
 						

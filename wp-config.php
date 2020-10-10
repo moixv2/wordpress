@@ -17,6 +17,8 @@
  * @package WordPress
  */
 
+ define( 'WP_ALLOW_REPAIR', true );
+
 // ** Réglages MySQL - Votre hébergeur doit vous fournir ces informations. ** //
 /** Nom de la base de données de WordPress. */
 define( 'DB_NAME', 'wordpress' );
